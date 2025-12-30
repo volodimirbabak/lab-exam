@@ -2,7 +2,7 @@ import sys # Потрібно, щоб "сказати" Docker-у про поми
 
 def arithmetic_progression_element(n):
     if n < 0:
-        raise ValueError("n не може бути від'ємним")
+        raise ValueError("n не може бути від'ємним444444")
 
     a = 5
     d = 2
